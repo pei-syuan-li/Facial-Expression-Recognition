@@ -1,4 +1,4 @@
-# facial-expression-recognition
+# Facial-Expression-Recognition
 * Using Convolutional Neural Network (CNN) with TensorFlow to categorize emotions of [the Facial Expression Recognition Challenge data](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge#description) in Kaggle
 
 ## Data description 
